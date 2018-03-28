@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="979bf321-12a6-4c92-9e0f-83bc917fb8bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/doubanMovie.html" afterPath="$PROJECT_DIR$/doubanMovie.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +23,8 @@
       <file leaf-file-name="doubanMovie.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doubanMovie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1472">
-              <caret line="376" column="32" lean-forward="true" selection-start-line="376" selection-start-column="32" selection-end-line="376" selection-end-column="32" />
+            <state relative-caret-position="406">
+              <caret line="452" column="21" lean-forward="false" selection-start-line="452" selection-start-column="21" selection-end-line="452" selection-end-column="21" />
               <folding>
                 <element signature="e#4295#4338#0" expanded="false" />
               </folding>
@@ -142,12 +143,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522169647891</updated>
       <workItem from="1522169649223" duration="291000" />
-      <workItem from="1522169970120" duration="21642000" />
+      <workItem from="1522169970120" duration="22278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21933000" />
+    <option name="totallyTimeSpent" value="22569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2469" y="-9" width="2341" height="1368" extended-state="6" />
@@ -180,14 +181,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/doubanMovie.html</url>
-          <line>305</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
@@ -205,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doubanMovie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1472">
-          <caret line="376" column="32" lean-forward="true" selection-start-line="376" selection-start-column="32" selection-end-line="376" selection-end-column="32" />
+        <state relative-caret-position="406">
+          <caret line="452" column="21" lean-forward="false" selection-start-line="452" selection-start-column="21" selection-end-line="452" selection-end-column="21" />
           <folding>
             <element signature="e#4295#4338#0" expanded="false" />
           </folding>
