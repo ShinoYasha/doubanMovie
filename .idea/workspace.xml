@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/doubanMovie.html" line="191" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979bf321-12a6-4c92-9e0f-83bc917fb8bc" name="Default" comment="" />
+    <list default="true" id="979bf321-12a6-4c92-9e0f-83bc917fb8bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/doubanMovie.html" afterPath="$PROJECT_DIR$/doubanMovie.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,13 +22,10 @@
       <file leaf-file-name="doubanMovie.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doubanMovie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="505" column="7" lean-forward="false" selection-start-line="505" selection-start-column="7" selection-end-line="505" selection-end-column="7" />
+            <state relative-caret-position="1472">
+              <caret line="376" column="32" lean-forward="true" selection-start-line="376" selection-start-column="32" selection-end-line="376" selection-end-column="32" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#4295#4338#0" expanded="false" />
-                <element signature="e#8885#10705#0" expanded="false" />
-                <element signature="e#11849#13701#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -143,12 +142,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522169647891</updated>
       <workItem from="1522169649223" duration="291000" />
-      <workItem from="1522169970120" duration="19832000" />
+      <workItem from="1522169970120" duration="21642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20123000" />
+    <option name="totallyTimeSpent" value="21933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2469" y="-9" width="2341" height="1368" extended-state="6" />
@@ -181,7 +180,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/doubanMovie.html</url>
+          <line>305</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -191,23 +198,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#4295#4338#0" expanded="false" />
-            <element signature="e#8885#10705#0" expanded="false" />
-            <element signature="e#11849#13701#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/doubanMovie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="505" column="7" lean-forward="false" selection-start-line="505" selection-start-column="7" selection-end-line="505" selection-end-column="7" />
+        <state relative-caret-position="1472">
+          <caret line="376" column="32" lean-forward="true" selection-start-line="376" selection-start-column="32" selection-end-line="376" selection-end-column="32" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#4295#4338#0" expanded="false" />
-            <element signature="e#8885#10705#0" expanded="false" />
-            <element signature="e#11849#13701#0" expanded="false" />
           </folding>
         </state>
       </provider>

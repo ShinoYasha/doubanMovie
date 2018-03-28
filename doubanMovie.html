@@ -321,6 +321,7 @@
             '        </a>\n' +
             '      </div>'
           var $node = $(tpl)
+          $node.find('a').attr('href', movie.alt)
           $node.find('img').attr('src', movie.images.medium)
           $node.find('h2').text(movie.title)
           $node.find('.score').text(movie.rating.average)
@@ -400,6 +401,7 @@
             '        </a>\n' +
             '      </div>'
           var $node = $(tpl)
+          $node.find('a').attr('href', movie.alt)
           $node.find('img').attr('src', movie.images.medium)
           $node.find('h2').text(movie.title)
           $node.find('.score').text(movie.rating.average)
@@ -479,6 +481,8 @@
             '        </a>\n' +
             '      </div>'
           var $node = $(tpl)
+          console.log(movie)
+          $node.find('a').attr('href', movie.alt)
           $node.find('img').attr('src', movie.images.medium)
           $node.find('h2').text(movie.title)
           $node.find('.score').text(movie.rating.average)
