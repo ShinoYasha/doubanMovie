@@ -258,7 +258,7 @@
         this.isLoading = false
         this.index = 0
         this.isFinish = false
-
+        this.clock
         this.bind()
         this.start()
       },
@@ -266,9 +266,13 @@
         let _this = this
         this.$container.scroll(function () {
           console.log('123')
+          if(this.clock){
+            clearTimeout(this.clock)
+          }
+          this.clock = setTimeout(function(){
           if(_this.isToBottom()) {
             _this.start()
-          }
+          }},300)
         })
       },
       start: function () {
